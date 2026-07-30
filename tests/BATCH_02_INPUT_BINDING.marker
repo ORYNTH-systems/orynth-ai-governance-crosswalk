@@ -1,0 +1,12 @@
+﻿ORYNTH_AI_GOVERNANCE_CROSSWALK_BATCH_02_INPUT_BINDING_COMPLETE
+
+Release candidate rows: 34
+Files inventoried: 50
+Source candidates: 15
+Evidence candidates: 2
+Requirement candidates: 6
+CSV parse failures: 0
+JSON parse failures: 0
+Actual repository schemas captured: TRUE
+Public matrix generation authorized: TRUE
+Completed: 2026-07-30T17:54:29-05:00
