@@ -1,0 +1,6 @@
+﻿"status_code","status_label","count","percentage","meaning","release_version"
+"ADDRESSED","Addressed","0","0","Public ORYNTH evidence substantially addresses the architectural requirement.","1.0.0"
+"PARTIALLY_ADDRESSED","Partially Addressed","9","26.47","Public ORYNTH evidence addresses material parts of the architectural requirement, but additional functionality or evidence remains necessary.","1.0.0"
+"RELATED","Related","4","11.76","Public ORYNTH evidence addresses a closely related architectural concept but does not directly perform the central duty.","1.0.0"
+"NOT_APPLICABLE","Not Applicable","8","23.53","The requirement concerns legal, governmental, administrative, financial, judicial, or other external authority outside ORYNTH architectural scope.","1.0.0"
+"GAP","Gap","13","38.24","The requirement is architecturally relevant, but no qualifying public ORYNTH evidence currently addresses it.","1.0.0"
