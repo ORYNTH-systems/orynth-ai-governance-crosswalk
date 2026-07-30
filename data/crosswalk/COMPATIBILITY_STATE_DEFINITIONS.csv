@@ -1,0 +1,7 @@
+﻿"compatibility_status","definition","legal_effect"
+"ADDRESSED","Public ORYNTH evidence directly supplies the relevant architectural mechanism within ORYNTH scope.","DOES_NOT_ESTABLISH_LEGAL_COMPLIANCE"
+"PARTIALLY_ADDRESSED","Public ORYNTH evidence supplies a material portion of the mechanism, while external legal, technical, institutional, or domain-specific components remain.","DOES_NOT_ESTABLISH_LEGAL_COMPLIANCE"
+"RELATED","Public ORYNTH evidence is materially relevant but does not directly provide the required mechanism.","NO_COMPLIANCE_INFERENCE"
+"NOT_APPLICABLE","The requirement concerns a legal, judicial, fiscal, staffing, sovereign-enforcement, or institutional function outside ORYNTH scope.","OUTSIDE_ORYNTH_SCOPE"
+"GAP","The requirement is architecturally relevant, but no sufficient public ORYNTH mechanism is indexed.","NO_COMPLIANCE_INFERENCE"
+"UNRESOLVED","Available evidence is insufficient for reliable adjudication.","NO_CONCLUSION"

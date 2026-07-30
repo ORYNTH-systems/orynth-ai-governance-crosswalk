@@ -1,0 +1,7 @@
+﻿"compatibility_verdict","requirement_count","expected_count","distribution_valid","percentage_of_total"
+"ADDRESSED","2","2","TRUE","5.88"
+"PARTIALLY_ADDRESSED","8","8","TRUE","23.53"
+"RELATED","10","10","TRUE","29.41"
+"NOT_APPLICABLE","13","13","TRUE","38.24"
+"GAP","1","1","TRUE","2.94"
+"UNRESOLVED","0","0","TRUE","0"

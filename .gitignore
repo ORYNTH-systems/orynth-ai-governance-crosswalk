@@ -1,0 +1,25 @@
+﻿# Operating-system artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.tmp
+*.bak
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# PowerShell artifacts
+*.clixml
+
+# Local working files
+~$*
+*.lock

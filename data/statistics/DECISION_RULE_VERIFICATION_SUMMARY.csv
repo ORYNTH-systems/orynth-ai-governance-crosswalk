@@ -1,0 +1,6 @@
+﻿"verification_class","test_count","pass_count","fail_count","verification_state"
+"RULE_AND_REFERENTIAL_INTEGRITY","16","16","0","PASS"
+"VERDICT_THRESHOLDS","12","12","0","PASS"
+"NO_QUOTA_CONTROLS","8","8","0","PASS"
+"SCHEMA_COMPLETENESS","38","38","0","PASS"
+"TOTAL","74","74","0","PASS"

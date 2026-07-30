@@ -1,0 +1,5 @@
+﻿"era_id","start_year","end_year","name","dominant_character","corpus_status"
+"ERA-01","2019","2022","STUDY_AND_GOVERNMENT_INVENTORY","Task forces, inventories, government-use review, facial-recognition controls, and initial automated-decision oversight","HISTORICAL_CONTEXT_NOT_YET_FULLY_INGESTED"
+"ERA-02","2023","2024","SECTOR_AND_SYNTHETIC_MEDIA_EXPANSION","Election deepfakes, digital replicas, employment, education, healthcare, disclosure, and synthetic-content regulation","PARTIALLY_REPRESENTED"
+"ERA-03","2024","2025","COMPREHENSIVE_PRIVATE_SECTOR_GOVERNANCE","Developer and deployer duties, risk management, impact assessment, documentation, notice, and anti-discrimination","REPRESENTED_BY_BACKBONE"
+"ERA-04","2025","2026","FRONTIER_CAPABILITY_AND_INFRASTRUCTURE_GOVERNANCE","Frontier-model evaluation, cybersecurity, compute and infrastructure, capability restrictions, and agent or chatbot governance","REPRESENTED_AND_EXPANDING"

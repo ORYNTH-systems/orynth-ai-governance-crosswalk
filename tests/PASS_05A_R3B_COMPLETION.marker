@@ -1,0 +1,26 @@
+﻿ORYNTH_AI_GOVERNANCE_CROSSWALK_PASS_05A_R3B_DECISION_RULE_VERIFICATION_COMPLETE
+Repository: C:\Users\18177\orynth-ai-governance-crosswalk
+Repair state: POST_HOC_DISTRIBUTION_CONTROL_VERIFIED
+Rule and referential-integrity tests: 16
+Verdict-threshold tests: 12
+No-quota control tests: 8
+Schema verification tests: 38
+Total verification tests: 74
+Verification tests passed: 74
+Verification tests failed: 0
+All six verdict states tested: TRUE
+POST_HOC_DISTRIBUTION_ONLY: VERIFIED
+Aggregate counts inspectable before row sealing: FALSE
+Expected verdict distribution defined: FALSE
+Quota allocation detected: FALSE
+Rank allocation detected: FALSE
+Top-N assignment detected: FALSE
+Randomization detected: FALSE
+UNRESOLVED permitted: TRUE
+Low-confidence ADDRESSED permitted: FALSE
+Real source requirements adjudicated: 0
+Compatibility verdicts assigned: 0
+Prior adjudication outputs present: FALSE
+Legal compliance determinations: 0
+External legal authority preserved: TRUE
+PASS 05A-R3C authorized: TRUE

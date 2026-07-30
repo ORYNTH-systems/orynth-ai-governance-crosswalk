@@ -1,0 +1,6 @@
+﻿artifact_id,artifact_name,artifact_type,version,publication_date,doi,repository_url,public_status,scope,verification_status
+ORYNTH-RA-001,"ORYNTH Reference Architecture","Reference Architecture","1.0.0","2026-07-27","10.5281/zenodo.21613401",,"PUBLIC_REFERENCE_STATE","Execution assurance architecture for adaptive systems",PENDING_SECTION_INDEX
+ORYNTH-AAS-001,"ORYNTH Architectural Audit Specification","Audit Specification","1.0.0","2026-07-27","10.5281/zenodo.21613496",,"PUBLIC_REFERENCE_STATE","Evidence-based architectural conformance audit methodology",PENDING_SECTION_INDEX
+MS-001,"Morning Star","Constitutional Architecture","1.0.0",,,,"PUBLIC_ARTIFACTS_EXIST","Governed knowledge acquisition and evidence binding",PENDING_SOURCE_REGISTRATION
+AOMS-001,"AOMS","Experimental Framework",,,,,"PUBLIC_ARTIFACTS_EXIST","Measurement and evaluation of autonomous behavior",PENDING_SOURCE_REGISTRATION
+RP-001,"Requiem Pandemonium","Constitutional Threat Architecture",,,,,"PRIVATE_FORMATION","Threat recognition, constraint, subdual, disposition, and recovery",EXCLUDED_FROM_PUBLIC_CLAIMS

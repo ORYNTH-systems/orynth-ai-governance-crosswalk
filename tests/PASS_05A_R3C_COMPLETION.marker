@@ -1,0 +1,35 @@
+﻿ORYNTH_AI_GOVERNANCE_CROSSWALK_PASS_05A_R3C_DETERMINISTIC_INDEPENDENT_ADJUDICATION_ENGINE_COMPLETE
+Repository: C:\Users\18177\orynth-ai-governance-crosswalk
+Method version: 05A-R3C-V5
+Source requirements adjudicated: 34
+Provisional evidence-use relationships: 76
+Provisional residual records: 31
+Mandatory challenge records: 34
+Trust assertions passed: 10
+ADDRESSED provisional: 3
+PARTIALLY_ADDRESSED provisional: 5
+RELATED provisional: 1
+NOT_APPLICABLE provisional: 3
+GAP provisional: 11
+UNRESOLVED provisional: 11
+Expected verdict distribution defined: FALSE
+Target verdict counts supplied: FALSE
+Quota allocation applied: FALSE
+Rank allocation applied: FALSE
+Top-N assignment applied: FALSE
+Randomization applied: FALSE
+Aggregate counts generated after row sealing: TRUE
+All rows sealed: TRUE
+All rows challenge-required: TRUE
+Trace reproducibility verified: TRUE
+Trace reproducibility SHA256: FD644C319083BF03CE02743F342C90AB328056FD6EC41971F78E96897C1C07FC
+Evidence-ledger reproducibility SHA256: E34D07746A1BFDCE9FCFC2B07EE17500A1FE849644C2B2F42188230AF3DC41BE
+Residual-registry reproducibility SHA256: 858F280DFD61BD71788C7B4CA4F0AE12D065D54D237402316DB126CBD0CB933E
+Challenge-register reproducibility SHA256: 83E32731FC7773D494487E1625A7BE94D499F300DE2D30578E9582B0BFE8CD0F
+Low-confidence ADDRESSED verdicts: 0
+Unknown evidence references: 0
+Legal compliance determinations: 0
+External legal authority preserved: TRUE
+Final compatibility matrix generated: FALSE
+Human adversarial review complete: FALSE
+PASS 05A-R4 authorized: TRUE

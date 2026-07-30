@@ -1,0 +1,7 @@
+﻿"recommended_verdict","recommendation_count","percentage_of_corpus","target_count_defined","final_verdict_state","consolidation_required"
+"ADDRESSED","0","0","FALSE","NOT_FINAL","TRUE"
+"PARTIALLY_ADDRESSED","8","23.53","FALSE","NOT_FINAL","TRUE"
+"RELATED","1","2.94","FALSE","NOT_FINAL","TRUE"
+"NOT_APPLICABLE","3","8.82","FALSE","NOT_FINAL","TRUE"
+"GAP","11","32.35","FALSE","NOT_FINAL","TRUE"
+"UNRESOLVED","11","32.35","FALSE","NOT_FINAL","TRUE"

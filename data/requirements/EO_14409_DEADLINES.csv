@@ -1,0 +1,4 @@
+﻿"deadline_id","period","normalized_date","source_date","sections","obligated_actor_class","private_company_deadline","notes"
+"EO14409-DL-001","30 days","2026-07-02","2026-06-02","2(a);2(b);2(c);2(d);2(e)","FEDERAL","FALSE","Federal implementation deadline"
+"EO14409-DL-002","60 days","2026-08-01","2026-06-02","2(f);3(a);3(b)","FEDERAL","FALSE","Federal implementation and framework-design deadline"
+"EO14409-DL-003","Up to 30 days before release to trusted partners","","","3(b)(ii)","VOLUNTARY_PRIVATE_PARTICIPANT","CONDITIONAL_VOLUNTARY","Not a universal calendar deadline; applies only within voluntary framework participation"

@@ -1,0 +1,3 @@
+﻿"artifact_id","artifact_name","artifact_type","version","publication_date","doi","publication_state"
+"ORYNTH-RA-001","ORYNTH Reference Architecture","REFERENCE_ARCHITECTURE","1.0.0","2026-07-27","10.5281/zenodo.21613401","PUBLIC_REFERENCE_STATE"
+"ORYNTH-AAS-001","ORYNTH Architectural Audit Specification","AUDIT_SPECIFICATION","1.0.0","2026-07-27","10.5281/zenodo.21613496","PUBLIC_REFERENCE_STATE"
