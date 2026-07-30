@@ -1,1 +1,3 @@
-﻿
+﻿"source_id","source_name","total_requirements","addressed","partially_addressed","related","not_applicable","gap","architecturally_corresponding","correspondence_rate_percent","release_version","methodology_version"
+"FED-EO-14409","Executive Order 14409","25","0","8","3","3","11","11","44","1.0.0","05A-R5B-V1"
+"MN-HF-1606","Minnesota HF 1606 / Chapter 72","9","0","1","1","5","2","2","22.22","1.0.0","05A-R5B-V1"
