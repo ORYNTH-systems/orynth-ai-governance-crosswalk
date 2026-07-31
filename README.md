@@ -3,6 +3,19 @@
 **An evidence-based compatibility matrix mapping selected AI governance requirements to publicly available ORYNTH architectural evidence.**
 
 Version 1.0.0 — Public Proof Reference
+
+
+![ORYNTH AI Governance Crosswalk — Public release overview](docs/visuals/PUBLIC_RELEASE_HERO.png)
+
+## Quick facts
+
+- **34** governance requirements evaluated
+- **2** governing instruments represented
+- **Public evidence only**
+- **Deterministic adjudication**
+- **Adversarial verdict review**
+- **0 unresolved determinations**
+- Architectural correspondence only — **not legal compliance**
 
 ---
 
@@ -52,7 +65,7 @@ This release identified **9 partially addressed** requirements, **4 related** re
 
 The methodology preserves unsupported architectural coverage as a gap rather than upgrading it for presentation.
 
-![ORYNTH AI Governance Crosswalk — Primary Visual](docs/visuals/PRIMARY_CROSSWALK_VISUAL.png)
+![Detailed crosswalk evidence model](docs/visuals/PRIMARY_CROSSWALK_VISUAL.png)
 
 ## How the crosswalk works
 
@@ -104,6 +117,7 @@ Repository documentation and data are provided for public inspection and evidenc
 ---
 
 *This assessment does not establish or guarantee safety, correctness, legal compliance, government approval, regulatory certification, or statutory satisfaction. It is architectural compatibility evidence only.*
+
 
 
 
