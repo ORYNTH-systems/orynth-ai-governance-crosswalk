@@ -44,9 +44,13 @@ The bounded release evaluates **34 atomic requirements** — 25 from Executive O
 - **0** requirements are claimed as fully addressed.
 - **0** requirements are unresolved.
 
-### The zero "Addressed" findings
+### Evidence threshold for "Addressed"
 
-Zero fully addressed findings is deliberate. The adjudication reports architectural correspondence only where the public evidence supports it; it does not round partial support up to full support, and it does not manufacture coverage. The **13 gaps are a valid research result** — they show where no qualifying public mechanism yet exists. A conservative evidence standard produces a trustworthy matrix, not a failed project.
+No requirement is classified as **Addressed** unless the available public architectural evidence substantially performs the central duty without a material architectural residual.
+
+This release identified **9 partially addressed** requirements, **4 related** requirements, **8 duties outside architectural scope**, and **13 public evidence gaps**.
+
+The methodology preserves unsupported architectural coverage as a gap rather than upgrading it for presentation.
 
 ![ORYNTH AI Governance Crosswalk — Primary Visual](docs/visuals/PRIMARY_CROSSWALK_VISUAL.png)
 
@@ -101,4 +105,5 @@ See [`LICENSE`](LICENSE). Documentation and data are released for public review;
 ---
 
 *This assessment does not establish or guarantee safety, correctness, legal compliance, government approval, regulatory certification, or statutory satisfaction. It is architectural compatibility evidence only.*
+
 
