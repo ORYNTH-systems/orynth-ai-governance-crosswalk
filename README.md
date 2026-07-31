@@ -106,7 +106,6 @@ This is a selected enacted-law and executive-action backbone, not a national sur
 
 **Author:** Ashley S. Harris  
 **Project:** ORYNTH AI Governance Crosswalk  
-**Version:** v1.0.0 Public Proof Reference  
 **ORYNTH Public Evidence Base:**
 - ORYNTH Reference Architecture: Execution Assurance Architecture for Adaptive Systems (v1.0.0). DOI: [10.5281/zenodo.21613401](https://doi.org/10.5281/zenodo.21613401)
 - ORYNTH Architectural Audit Specification (v1.0.0). DOI: [10.5281/zenodo.21613496](https://doi.org/10.5281/zenodo.21613496)
@@ -117,6 +116,7 @@ Repository documentation and data are provided for public inspection and evidenc
 ---
 
 *This assessment does not establish or guarantee safety, correctness, legal compliance, government approval, regulatory certification, or statutory satisfaction. It is architectural compatibility evidence only.*
+
 
 
 
