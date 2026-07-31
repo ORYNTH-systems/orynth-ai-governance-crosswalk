@@ -2,7 +2,8 @@
 
 **An evidence-based compatibility matrix mapping selected AI governance requirements to publicly available ORYNTH architectural evidence.**
 
-Version 1.0.0 — Public Proof Reference
+**Canonical Research State:** v1.0.0 Public Proof Reference  
+**Current Public Repository Release:** v1.0.3
 
 
 ![ORYNTH AI Governance Crosswalk — Public release overview](docs/visuals/PUBLIC_RELEASE_HERO.png)
@@ -81,7 +82,7 @@ The public crosswalk uses five compatibility statuses:
 
 | Status | Meaning |
 |---|---|
-| **Addressed** | Public ORYNTH evidence substantially addresses the architectural requirement. No rows reached this threshold in v1.0.0. |
+| **Addressed** | Public ORYNTH evidence substantially addresses the architectural requirement. No rows reached this threshold in the canonical v1.0.0 research state. |
 | **Partially Addressed** | Public evidence performs material portions of the duty, but functionality, implementation, authority, or evidence remains incomplete. |
 | **Related** | A relevant ORYNTH mechanism exists, but it does not directly perform the central duty. |
 | **Not Applicable** | The requirement concerns legal, governmental, administrative, judicial, financial, or other authority outside ORYNTH architectural scope. |
@@ -105,7 +106,9 @@ This is a selected enacted-law and executive-action backbone, not a national sur
 ## Citation and Authorship
 
 **Author:** Ashley S. Harris  
-**Project:** ORYNTH AI Governance Crosswalk v1.0.0
+**Project:** ORYNTH AI Governance Crosswalk  
+**Canonical research state:** v1.0.0  
+**Current repository release:** v1.0.3
 
 **ORYNTH Public Evidence Base:**
 - ORYNTH Reference Architecture: Execution Assurance Architecture for Adaptive Systems (v1.0.0). DOI: [10.5281/zenodo.21613401](https://doi.org/10.5281/zenodo.21613401)
@@ -117,6 +120,7 @@ Repository documentation and data are provided for public inspection and evidenc
 ---
 
 *This assessment does not establish or guarantee safety, correctness, legal compliance, government approval, regulatory certification, or statutory satisfaction. It is architectural compatibility evidence only.*
+
 
 
 
