@@ -62,8 +62,6 @@ This release identified **9 partially addressed** requirements, **4 related** re
 
 The methodology preserves unsupported architectural coverage as a gap rather than upgrading it for presentation.
 
-![Detailed crosswalk evidence model](docs/visuals/PRIMARY_CROSSWALK_VISUAL.png)
-
 ## How the crosswalk works
 
 Requirements are extracted from primary sources, normalized to a common taxonomy, matched against indexed public ORYNTH evidence, adjudicated deterministically, adversarially reviewed, and frozen into the release candidate and verdict provenance. Residual duties are preserved at every step.
@@ -113,6 +111,7 @@ Repository documentation and data are provided for public inspection and evidenc
 ---
 
 *This assessment does not establish or guarantee safety, correctness, legal compliance, government approval, regulatory certification, or statutory satisfaction. It is architectural compatibility evidence only.*
+
 
 
 
