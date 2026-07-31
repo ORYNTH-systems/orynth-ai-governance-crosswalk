@@ -60,9 +60,17 @@ Requirements are extracted from primary sources, normalized to a common taxonomy
 
 The canonical matrix is `data/public/ORYNTH_AI_GOVERNANCE_CROSSWALK.csv`. Each row is one atomic requirement and records the source provision, the normalized requirement, the assigned public ORYNTH evidence, the compatibility verdict, the residual duties that remain external, and a confidence level. 
 
-The six compatibility states are defined in the legend below:
+The public crosswalk uses five compatibility statuses:
 
-![Status legend](docs/visuals/status-legend.png)
+| Status | Meaning |
+|---|---|
+| **Addressed** | Public ORYNTH evidence substantially addresses the architectural requirement. No rows reached this threshold in v1.0.0. |
+| **Partially Addressed** | Public evidence performs material portions of the duty, but functionality, implementation, authority, or evidence remains incomplete. |
+| **Related** | A relevant ORYNTH mechanism exists, but it does not directly perform the central duty. |
+| **Not Applicable** | The requirement concerns legal, governmental, administrative, judicial, financial, or other authority outside ORYNTH architectural scope. |
+| **Gap** | The duty is architecturally relevant, but no qualifying public ORYNTH mechanism currently addresses it. |
+
+`UNRESOLVED` is retained as an internal adjudication state rather than a public compatibility outcome. No unresolved rows remain in this release.
 
 ## Repository navigation
 
@@ -93,3 +101,4 @@ See [`LICENSE`](LICENSE). Documentation and data are released for public review;
 ---
 
 *This assessment does not establish or guarantee safety, correctness, legal compliance, government approval, regulatory certification, or statutory satisfaction. It is architectural compatibility evidence only.*
+
