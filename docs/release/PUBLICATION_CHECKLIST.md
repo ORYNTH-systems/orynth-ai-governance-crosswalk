@@ -3,7 +3,7 @@
 ## Identity
 
 - [x] Project identity is platform-neutral.
-- [x] Version is 0.1.0.
+- [x] Version is 1.0.0.
 - [x] State is Public Release State.
 
 ## Corpus and evidence
@@ -18,7 +18,7 @@
 
 - [x] All six verdict classes are presented.
 - [x] Residual duties remain visible.
-- [x] The single public-mechanism gap remains visible.
+- [x] The 13 public-mechanism gaps remain visible.
 - [x] The two August 1, 2026 events remain separate.
 
 ## Claim boundary
@@ -34,5 +34,5 @@
 ## Freeze state
 
 - [x] PASS 05D release verification is complete.
-- [x] Version 0.1.0 is frozen.
+- [x] Version 1.0.0 is frozen.
 

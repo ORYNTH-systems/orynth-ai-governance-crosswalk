@@ -2,7 +2,7 @@
 
 ## Release identity
 
-ORYNTH AI GOVERNANCE CROSSWALK — VERSION 0.1.0 PUBLIC RELEASE STATE
+ORYNTH AI GOVERNANCE CROSSWALK — VERSION 1.0.0 PUBLIC PROOF REFERENCE
 
 ## Primary statement
 
@@ -15,11 +15,11 @@ The bounded release evaluates 34 atomic requirements.
 
 ## Core distribution
 
-- ADDRESSED: 2
-- PARTIALLY_ADDRESSED: 8
-- RELATED: 10
-- NOT_APPLICABLE: 13
-- GAP: 1
+- ADDRESSED: 0
+- PARTIALLY_ADDRESSED: 9
+- RELATED: 4
+- NOT_APPLICABLE: 8
+- GAP: 13
 - UNRESOLVED: 0
 
 ## Required paired statement
@@ -34,7 +34,7 @@ The bounded release evaluates 34 atomic requirements.
 2. Present all six verdict classes.
 3. Separate direct architectural support from legal-duty performance.
 4. Preserve every residual duty.
-5. Preserve the single public-mechanism gap.
+5. Preserve the 13 public-mechanism gaps.
 6. Explain outside-scope requirements as scope boundaries.
 7. Keep the two August 1, 2026 events separate.
 8. Avoid complete-national-coverage claims.

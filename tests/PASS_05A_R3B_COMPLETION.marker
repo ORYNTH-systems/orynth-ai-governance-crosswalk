@@ -1,5 +1,5 @@
 ﻿ORYNTH_AI_GOVERNANCE_CROSSWALK_PASS_05A_R3B_DECISION_RULE_VERIFICATION_COMPLETE
-Repository: C:\Users\18177\orynth-ai-governance-crosswalk
+Repository: orynth-ai-governance-crosswalk
 Repair state: POST_HOC_DISTRIBUTION_CONTROL_VERIFIED
 Rule and referential-integrity tests: 16
 Verdict-threshold tests: 12

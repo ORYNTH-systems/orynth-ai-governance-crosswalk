@@ -1,14 +1,10 @@
 ﻿# ORYNTH AI Governance Crosswalk
 
-## Version 0.1.0 Release Freeze Record
+## Version 1.0.0 Release Freeze Record
 
 ### Final state
 
 PUBLIC_RELEASE_FROZEN
-
-### Repository
-
-C:\Users\18177\orynth-ai-governance-crosswalk
 
 ### Verified analytical state
 
@@ -23,19 +19,19 @@ C:\Users\18177\orynth-ai-governance-crosswalk
 
 ### Final verdict distribution
 
-- ADDRESSED: 2
-- PARTIALLY_ADDRESSED: 8
-- RELATED: 10
-- NOT_APPLICABLE: 13
-- GAP: 1
+- ADDRESSED: 0
+- PARTIALLY_ADDRESSED: 9
+- RELATED: 4
+- NOT_APPLICABLE: 8
+- GAP: 13
 - UNRESOLVED: 0
 - TOTAL: 34
 
 ### Aggregate relationship
 
-- Direct bounded architectural support: 10
-- Architecturally relevant: 20
-- Outside scope or absent: 14
+- Direct bounded architectural support: 9
+- Architecturally relevant: 13
+- Outside scope or absent: 21
 
 ### Integrity state
 
@@ -72,7 +68,7 @@ implementation.
 
 ### Corpus boundary
 
-Version 0.1.0 uses a selected and bounded enacted-law and executive-action
+Version 1.0.0 uses a selected and bounded enacted-law and executive-action
 backbone.
 
 It does not claim complete federal or 50-state AI-law coverage.
@@ -89,8 +85,8 @@ These events remain separate.
 
 ### Freeze declaration
 
-All required Version 0.1.0 public release artifacts, analytical files,
+All required Version 1.0.0 public release artifacts, analytical files,
 statistics, evidence relationships, residual duties, claim boundaries, hashes,
 and prior completion markers have been validated.
 
-Version 0.1.0 is frozen in the PUBLIC_RELEASE_FROZEN state.
+Version 1.0.0 is frozen in the PUBLIC_RELEASE_FROZEN state.

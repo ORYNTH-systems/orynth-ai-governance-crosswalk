@@ -5,11 +5,11 @@ The current adjudication evaluates a bounded two-source corpus containing
 
 ## Distribution
 
-- ADDRESSED: 2
-- PARTIALLY_ADDRESSED: 8
-- RELATED: 10
-- NOT_APPLICABLE: 13
-- GAP: 1
+- ADDRESSED: 0
+- PARTIALLY_ADDRESSED: 9
+- RELATED: 4
+- NOT_APPLICABLE: 8
+- GAP: 13
 - UNRESOLVED: 0
 - TOTAL: 34
 

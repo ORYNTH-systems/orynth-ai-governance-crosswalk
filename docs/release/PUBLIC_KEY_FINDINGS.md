@@ -9,20 +9,20 @@ The release evaluates 34 atomic requirements:
 
 ## Compatibility distribution
 
-- ADDRESSED: 2
-- PARTIALLY_ADDRESSED: 8
-- RELATED: 10
-- NOT_APPLICABLE: 13
-- GAP: 1
+- ADDRESSED: 0
+- PARTIALLY_ADDRESSED: 9
+- RELATED: 4
+- NOT_APPLICABLE: 8
+- GAP: 13
 - UNRESOLVED: 0
 
 ## Architectural relationship
 
-10 requirements have direct bounded architectural support.
+9 requirements have direct bounded architectural support.
 
-20 requirements have an identified architectural relationship.
+13 requirements have an identified architectural relationship.
 
-14 requirements are outside the current public scope or lack
+21 requirements are outside the current public scope or lack
 a sufficiently relevant public mechanism.
 
 ## Residual duties
@@ -37,13 +37,9 @@ artifacts.
 24 distinct public evidence records support the adjudication
 through 66 requirement-to-evidence relationships.
 
-## Gap
+## Gaps
 
-The single public-mechanism gap is:
-
-- MN-HF1606-REQ-003
-- Minnesota HF 1606 / Chapter 72
-- Must not advertise or promote a service that performs prohibited nudification actions.
+13 requirements are identified as public-mechanism gaps, indicating they are architecturally relevant but no qualifying public ORYNTH mechanism currently addresses them. Eleven gaps arise in Executive Order 14409 and two in Minnesota HF 1606 / Chapter 72.
 
 ## Required limitation
 

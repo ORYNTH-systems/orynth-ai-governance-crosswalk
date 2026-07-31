@@ -1,6 +1,6 @@
 ﻿# ORYNTH AI Governance Crosswalk
 
-## Version 0.1.0 Public Release State
+## Version 1.0.0 — Public Proof Reference
 
 Start with:
 
@@ -15,4 +15,3 @@ This is an architectural compatibility assessment.
 It does not establish legal compliance, government approval, regulatory
 certification, implementation certification, safety, correctness, or statutory
 satisfaction.
-
