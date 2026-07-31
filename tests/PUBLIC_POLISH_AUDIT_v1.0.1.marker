@@ -1,0 +1,14 @@
+﻿ORYNTH_AI_GOVERNANCE_CROSSWALK_PUBLIC_POLISH_AUDIT_COMPLETE
+
+Branch: polish/public-v1.0.1
+Matrix rows: 34
+Canonical distribution: 0 / 9 / 4 / 8 / 13
+Critical findings: 1
+High findings: 2
+Medium findings: 1
+Low findings: 0
+Total findings: 4
+Canonical adjudication modified: FALSE
+Main modified: FALSE
+Polish implementation authorized: TRUE
+Completed: 2026-07-31T12:34:48-05:00
