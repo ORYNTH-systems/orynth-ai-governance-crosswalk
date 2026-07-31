@@ -2,7 +2,14 @@
     $ErrorActionPreference = 'Stop'
     Set-StrictMode -Version Latest
 
-    $Repo = 'C:\Users\18177\orynth-ai-governance-crosswalk'
+    # Resolve the repository root relative to this script:
+    # scripts/repair/<script>.ps1 -> repository root
+    $Repo = (
+        Resolve-Path -LiteralPath (
+            Join-Path $PSScriptRoot '..\..'
+        )
+    ).Path
+
     Set-Location -LiteralPath $Repo
 
     Write-Host ''
@@ -1278,3 +1285,4 @@ PASS 05A-R4 authorized: TRUE
     Write-Host 'NEXT: PASS 05A-R4 — ADVERSARIAL VERDICT REVIEW' -ForegroundColor Cyan
     Write-Host '======================================================================' -ForegroundColor Cyan
 }
+

@@ -79,7 +79,7 @@ The public crosswalk uses five compatibility statuses:
 ## Repository navigation
 
 - **[Canonical Matrix](data/public/ORYNTH_AI_GOVERNANCE_CROSSWALK.csv)**: The primary row-level crosswalk.
-- **[Evidence Registry](data/crosswalk/ORYNTH_EVIDENCE_USE_LEDGER.csv)**: The ledger mapping requirements to specific architectural evidence.
+- **[Evidence Registry](data/public/ORYNTH_EVIDENCE_REGISTRY.csv)**: The public registry mapping evidence identifiers and architectural mechanisms to evaluated requirements.
 - **[Methodology](docs/methodology/COMPATIBILITY_ADJUDICATION_PROTOCOL.md)**: The rules governing extraction, normalization, and adjudication.
 - **[Primary Sources](evidence/)**: Official government records (Federal Register, session laws) and ORYNTH public artifacts.
 - **[Key Findings](docs/release/PUBLIC_KEY_FINDINGS.md)**: Detailed statistical and strategic findings.
@@ -98,12 +98,12 @@ This is a selected enacted-law and executive-action backbone, not a national sur
 - ORYNTH Reference Architecture: Execution Assurance Architecture for Adaptive Systems (v1.0.0). DOI: [10.5281/zenodo.21613401](https://doi.org/10.5281/zenodo.21613401)
 - ORYNTH Architectural Audit Specification (v1.0.0). DOI: [10.5281/zenodo.21613496](https://doi.org/10.5281/zenodo.21613496)
 
-## License
+## Rights and Source Materials
 
-See [`LICENSE`](LICENSE). Documentation and data are released for public review; primary-source materials remain the property of their issuing governments.
-
+Repository documentation and data are provided for public inspection and evidence-based review. ORYNTH publications remain governed by the terms stated in their cited public releases. Primary-source governmental materials remain subject to the rights and terms of their issuing institutions.
 ---
 
 *This assessment does not establish or guarantee safety, correctness, legal compliance, government approval, regulatory certification, or statutory satisfaction. It is architectural compatibility evidence only.*
+
 
 
